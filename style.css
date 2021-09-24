@@ -13,18 +13,23 @@ input{
     font-size: 34px;
     border: 5px solid #B97A95;
     border-radius: 10px;
+    height: 65;
+    width: 456;
 }
 button{
     font-size: 40px;
-    width: 102px;
+    width: 90px;
     height: 58px;
     color: #E6E6E6;
     background-color: #316B83;
     border-radius: 10px;
+    height: 90px;
+    margin: 6px;
 }
 .calculator{
     background-color: #345B63;
     padding: 20px;
     display: inline-block;
     border-radius: 20px;
+    
 }
